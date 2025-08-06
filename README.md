@@ -1,4 +1,4 @@
-# DroidRun Portal - Android无障碍桥接服务
+# DroidRun Portal - Android无障碍桥接服务APP
 
 <div align="center">
 
@@ -249,6 +249,8 @@ cd droidrun-portal
 # 安装到连接的设备
 ./gradlew installDebug
 ```
+./gradlew assembleDebug 是构建调试APK
+./gradlew assembleRelease  是构建生产环境APK
 
 ### 项目结构
 ```
